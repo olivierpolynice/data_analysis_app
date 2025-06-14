@@ -1,0 +1,21 @@
+Date,Client,Produit,Categorie,Quantité,Prix_Unitaire (€),Total (€),Canal
+2024-01-01,Jean Dupont,Casque Audio,Électronique,2,49.99,99.98,Site Web
+2024-01-01,Lisa Moreau,Cahier A4,Papeterie,5,2.5,12.5,Magasin
+2024-01-02,Ali Benali,Stylo plume,Papeterie,3,3.75,11.25,Site Web
+2024-01-02,Claire Bernard,Souris sans fil,Électronique,1,24.99,24.99,Site Web
+2024-01-03,David Cohen,Classeur,Papeterie,6,1.99,11.94,Magasin
+2024-01-03,Julie Renard,Clé USB 32Go,Électronique,4,9.99,39.96,Magasin
+2024-01-04,Paul Martin,Casque Audio,Électronique,1,49.99,49.99,Site Web
+2024-01-04,Anna Lopez,Marqueur permanent,Papeterie,8,1.25,10.0,Magasin
+2024-01-05,Marc Diallo,Souris sans fil,Électronique,2,24.99,49.98,Site Web
+2024-01-05,Ines Giraud,Cahier A4,Papeterie,10,2.5,25.0,Site Web
+2024-01-06,Kamel Azoulay,Classeur,Papeterie,3,1.99,5.97,Magasin
+2024-01-06,Mireille Duroy,Clé USB 32Go,Électronique,2,9.99,19.98,Magasin
+2024-01-07,Laura Petit,Stylo plume,Papeterie,4,3.75,15.0,Site Web
+2024-01-07,Ahmed Youssef,Casque Audio,Électronique,1,49.99,49.99,Site Web
+2024-01-08,Bruno Lemaitre,Cahier A4,Papeterie,7,2.5,17.5,Site Web
+2024-01-08,Sophie Blanc,Classeur,Papeterie,4,1.99,7.96,Magasin
+2024-01-09,Camille Garcia,Clé USB 32Go,Électronique,3,9.99,29.97,Magasin
+2024-01-09,Daniel Morel,Marqueur permanent,Papeterie,10,1.25,12.5,Site Web
+2024-01-10,Stéphanie Leroy,Stylo plume,Papeterie,2,3.75,7.5,Site Web
+2024-01-10,Noé Charlier,Souris sans fil,Électronique,1,24.99,24.99,Magasin
