@@ -1,4 +1,8 @@
 streamlit
 pandas
-matplotlib
-Pillow
+plotly
+kaleido
+python-dateutil
+numpy
+openpyxl
+reportlab
